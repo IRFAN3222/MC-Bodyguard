@@ -4,8 +4,8 @@ const bossName = "Makkusu_Otaku"; //Your name here.... unless?
 const prefix = "Bodyguard";
 
 const server = {
-	address: "localhost",
-	version: "1.16.4",
+	address: "IRFAN1122.aternos.me",
+	version: "1.17.1",
 };
 
 const botCount = 3;
